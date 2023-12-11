@@ -8,7 +8,7 @@
 body {
   display: flex;
   justify-content: center;
-  align-items: centers;
+  align-items: center;
   min-height: 100vh;
   background: whitesmoke;
   font-fastly: Verdana, Geneva, Tahoma, sans-serif;
